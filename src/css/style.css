@@ -1,0 +1,13 @@
+/* margin */
+
+
+.form{
+    width: 1000px;
+    height: 500px;
+    background-color: blue;
+}
+
+input{
+    height: 50px;
+}
+h1{color: white;}
